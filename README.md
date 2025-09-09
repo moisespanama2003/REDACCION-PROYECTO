@@ -5,7 +5,7 @@ Se utiliza **HTML5 + CSS3** con efectos de **glassmorphism** (fondo borroso, bor
 
 ## 📸 Vista Previa
 
-![Login Preview](./1db06973-21c6-4ed5-8496-0b5b20aed9ec.png)
+![Login Preview](/logininicio.png)
 
 ## 🚀 Tecnologías utilizadas
 - HTML5
